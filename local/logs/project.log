@@ -1,0 +1,55 @@
+2018-11-07T01:38:24.789Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-07T01:38:24.793Z - normal: checking language setting...
+2018-11-07T01:38:24.794Z - normal: Language: zh
+2018-11-07T01:38:27.034Z - success: protocol editor-framework registered
+2018-11-07T01:38:27.035Z - success: protocol app registered
+2018-11-07T01:38:27.035Z - success: protocol theme registered
+2018-11-07T01:38:27.035Z - success: protocol packages registered
+2018-11-07T01:38:27.037Z - success: protocol unpack registerred
+2018-11-07T01:38:27.038Z - success: protocol disable-commonjs registerred
+2018-11-07T01:38:27.265Z - normal: connected!
+2018-11-07T01:38:27.270Z - normal: Check project /Users/lijinyou/myWork/Games/Card_game
+2018-11-07T01:38:27.277Z - normal: Initializing Cocos2d
+2018-11-07T01:38:27.938Z - normal: Initializing Asset Database
+2018-11-07T01:38:28.135Z - success: protocol uuid registerred
+2018-11-07T01:38:28.135Z - success: protocol db registerred
+2018-11-07T01:38:28.136Z - success: protocol thumbnail registerred
+2018-11-07T01:38:28.136Z - normal: Loading editor/builtin packages
+2018-11-07T01:38:28.264Z - success: anysdk loaded
+2018-11-07T01:38:28.699Z - success: assets loaded
+2018-11-07T01:38:28.714Z - success: builder loaded
+2018-11-07T01:38:28.743Z - success: cocos-analytics loaded
+2018-11-07T01:38:28.762Z - success: console loaded
+2018-11-07T01:38:28.887Z - success: fb-instant-games loaded
+2018-11-07T01:38:28.906Z - success: hierarchy loaded
+2018-11-07T01:38:28.922Z - success: inspector loaded
+2018-11-07T01:38:28.926Z - success: keystore loaded
+2018-11-07T01:38:28.941Z - success: node-library loaded
+2018-11-07T01:38:28.947Z - success: package-asset loaded
+2018-11-07T01:38:28.951Z - success: preferences loaded
+2018-11-07T01:38:28.959Z - success: project-exporter loaded
+2018-11-07T01:38:29.018Z - success: project-importer loaded
+2018-11-07T01:38:29.026Z - success: project-settings loaded
+2018-11-07T01:38:29.036Z - success: ui-kit loaded
+2018-11-07T01:38:29.065Z - success: ui-grid loaded
+2018-11-07T01:38:29.077Z - success: scene loaded
+2018-11-07T01:38:29.080Z - success: sprite-editor loaded
+2018-11-07T01:38:29.096Z - success: store loaded
+2018-11-07T01:38:29.113Z - success: timeline loaded
+2018-11-07T01:38:29.114Z - normal: Loading builtin packages
+2018-11-07T01:38:29.133Z - success: asset-db-debugger loaded
+2018-11-07T01:38:29.135Z - success: color-picker loaded
+2018-11-07T01:38:29.151Z - success: package-manager loaded
+2018-11-07T01:38:29.153Z - success: qqplay-adapter loaded
+2018-11-07T01:38:29.184Z - success: sdkbox loaded
+2018-11-07T01:38:29.201Z - success: tester loaded
+2018-11-07T01:38:29.224Z - success: ui-kit-preview-extra loaded
+2018-11-07T01:38:29.234Z - success: ui-kit-preview loaded
+2018-11-07T01:38:29.268Z - success: ui-tree loaded
+2018-11-07T01:38:29.291Z - success: weapp-adapter loaded
+2018-11-07T01:38:36.063Z - normal: Initializing project /Users/lijinyou/myWork/Games/Card_game
+2018-11-07T01:38:36.065Z - normal: Loading packages
+2018-11-07T01:38:36.073Z - normal: Watching packages
+2018-11-07T01:38:36.289Z - normal: Run Application
+2018-11-07T01:38:49.768Z - success: preview server running at http://localhost:7456
+2018-11-07T01:38:59.032Z - normal: 1.9.3
