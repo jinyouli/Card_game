@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameComm",
+    "texture": "05172240-71c2-4dd3-8fa0-5fe4fc3ab901",
+    "atlas": "",
+    "rect": [
+      2,
+      0,
+      1015,
+      1572
+    ],
+    "offset": [
+      0,
+      1
+    ],
+    "originalSize": [
+      1019,
+      1574
+    ]
+  }
+}

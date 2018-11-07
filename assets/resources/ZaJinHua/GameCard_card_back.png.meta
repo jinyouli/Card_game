@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bc5fd438-c8fa-4041-be0e-2a1db181eaae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "GameCard_card_back": {
+      "ver": "1.0.3",
+      "uuid": "8d918e8b-4375-440c-9415-a6d2ffbaf0ed",
+      "rawTextureUuid": "bc5fd438-c8fa-4041-be0e-2a1db181eaae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 151,
+      "height": 209,
+      "rawWidth": 151,
+      "rawHeight": 209,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

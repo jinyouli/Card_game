@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GamePlaza-loading_01",
+    "texture": "761a9aaf-ff5d-4aba-999d-e136388b013a",
+    "atlas": "0b7a6e83-eba7-4252-9911-5ee1ab127692",
+    "rect": [
+      1861,
+      1080,
+      106,
+      88
+    ],
+    "offset": [
+      -14,
+      0
+    ],
+    "originalSize": [
+      150,
+      88
+    ]
+  }
+}

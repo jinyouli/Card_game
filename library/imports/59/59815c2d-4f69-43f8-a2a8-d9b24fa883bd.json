@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GamePlaza-dlg_btn_bank_n",
+    "texture": "761a9aaf-ff5d-4aba-999d-e136388b013a",
+    "atlas": "0b7a6e83-eba7-4252-9911-5ee1ab127692",
+    "rect": [
+      1912,
+      206,
+      70,
+      30
+    ],
+    "offset": [
+      -18,
+      1
+    ],
+    "originalSize": [
+      196,
+      72
+    ]
+  }
+}

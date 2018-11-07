@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "jetton_view_10",
+    "texture": "7364258d-7f50-4783-8628-8fc7a725ee30",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      72,
+      65
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      72,
+      65
+    ]
+  }
+}

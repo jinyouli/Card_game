@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GamePlaza-plaza_top logo",
+    "texture": "761a9aaf-ff5d-4aba-999d-e136388b013a",
+    "atlas": "0b7a6e83-eba7-4252-9911-5ee1ab127692",
+    "rect": [
+      2,
+      203,
+      1280,
+      85
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1280,
+      85
+    ]
+  }
+}

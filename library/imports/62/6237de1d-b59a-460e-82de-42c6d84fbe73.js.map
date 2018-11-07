@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../assets/Scripts/assets/Scripts/global.js"],"names":["global","module","exports"],"mappings":";;;;;;AAAA,IAAMA,SAAS,EAAf;AACAC,OAAOC,OAAP,GAAiBF,MAAjB","file":"global.js","sourceRoot":"../../../../assets/Scripts","sourcesContent":["const global = {};\nmodule.exports = global;"]}

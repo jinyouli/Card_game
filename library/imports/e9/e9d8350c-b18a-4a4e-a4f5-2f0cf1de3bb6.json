@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tip_pic_giveup",
+    "texture": "6e6c6701-99ee-45db-b131-cb6531ca8cbe",
+    "atlas": "",
+    "rect": [
+      3,
+      1,
+      75,
+      41
+    ],
+    "offset": [
+      -0.5,
+      -0.5
+    ],
+    "originalSize": [
+      82,
+      42
+    ]
+  }
+}

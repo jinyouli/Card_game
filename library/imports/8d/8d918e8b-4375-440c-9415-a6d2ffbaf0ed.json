@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameCard_card_back",
+    "texture": "bc5fd438-c8fa-4041-be0e-2a1db181eaae",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      151,
+      209
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      151,
+      209
+    ]
+  }
+}

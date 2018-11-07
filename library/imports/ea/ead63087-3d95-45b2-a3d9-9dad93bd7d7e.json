@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GameMenu-item_setting_d",
+    "texture": "05172240-71c2-4dd3-8fa0-5fe4fc3ab901",
+    "atlas": "9ee18780-605f-4025-a254-fa9cb1e2679d",
+    "rect": [
+      826,
+      1358,
+      163,
+      48
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      163,
+      48
+    ],
+    "rotated": 1
+  }
+}

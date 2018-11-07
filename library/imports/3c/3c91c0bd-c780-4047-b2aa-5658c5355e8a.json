@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GamePlaza-btn_savepwd_s",
+    "texture": "761a9aaf-ff5d-4aba-999d-e136388b013a",
+    "atlas": "0b7a6e83-eba7-4252-9911-5ee1ab127692",
+    "rect": [
+      1513,
+      1094,
+      188,
+      43
+    ],
+    "offset": [
+      -2,
+      0
+    ],
+    "originalSize": [
+      196,
+      49
+    ],
+    "rotated": 1
+  }
+}
